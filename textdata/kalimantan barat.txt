@@ -1,0 +1,8 @@
+<option>bengkayang</option>
+
+<option>kapuas hulu</option>
+<option>ketapang</option>
+<option>Landak</option>
+<option>melawi</option>
+<option>singkawang</option>
+<option>pontianak</option>

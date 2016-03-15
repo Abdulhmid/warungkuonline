@@ -1,0 +1,8 @@
+<option>batang hari</option>
+
+<option>bungo</option>
+<option>jambi kota</option>
+<option>kerinci</option>
+<option>merangin</option>
+<option>muaro jambi</option>
+<option>Sarolangun</option>

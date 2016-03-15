@@ -1,0 +1,1 @@
+crtg_content = ''; (function(){document.cookie = 'crtg_rta=' + escape(crtg_content) + '; path=/; expires=Tue, 16 Feb 2016 10:54:16 GMT; domain=kaskus.co.id';})();

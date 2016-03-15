@@ -1,0 +1,7 @@
+<option>bangka baratk</option>
+
+<option>bangka selatan</option>
+<option>bangka tengah</option>
+<option>belitung</option>
+<option>belitung timur</option>
+<option>pangkal pinang </option>

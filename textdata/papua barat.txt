@@ -1,0 +1,8 @@
+<option>fakfak</option>
+
+<option>Kaimana</option>
+<option>maybrat</option>
+<option>raja empat</option>
+<option>Prabumulih</option>
+<option>sorong</option>
+<option>tambrauw</option>

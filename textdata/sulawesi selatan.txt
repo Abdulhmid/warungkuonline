@@ -1,0 +1,8 @@
+<option>bantaeng</option>
+
+<option>barru</option>
+<option>bone</option>
+<option>makasar</option>
+<option>Polewali</option>
+<option>pare-pare</option>
+<option>toraja/option>

@@ -1,0 +1,15 @@
+<option>bandung barat</option>
+
+<option>bandung kota</option>
+<option>bekasi</option>
+<option>bogor</option>
+<option>ciamis</option>
+<option>cirebon</option>
+<option>depok</option>
+<option>garut</option>
+<option>indramayu</option>
+<option>majalengka</option>
+<option>purwakarta</option>
+<option>subang</option>
+<option>sukabumi</option>
+<option>sumedang</option>

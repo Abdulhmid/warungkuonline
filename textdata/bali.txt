@@ -1,0 +1,9 @@
+<option>Badung</option>
+<option>Bangli</option>
+<option>Buleleng</option>
+<option>Denpasar Kota</option>
+<option>Gianyar</option>
+<option>Jembrana</option>
+<option>Karang Asem</option>
+<option>Klukung</option>
+<option>Tabanan</option>

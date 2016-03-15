@@ -1,0 +1,8 @@
+<option>barito</option>
+
+<option>gunung mas</option>
+<option>kapuas</option>
+<option>katingan</option>
+<option>palangkaraya</option>
+<option>seruyan</option>
+<option>Sukamara</option>

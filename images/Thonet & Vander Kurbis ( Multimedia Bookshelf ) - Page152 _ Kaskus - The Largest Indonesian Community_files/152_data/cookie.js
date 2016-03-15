@@ -1,0 +1,1 @@
+window.parent.googletag.impl.pubads.setCookieInfo({"_cookies_":[{"_value_":"ID=8c4a3aaf2fd0964f:T=1453028407:S=ALNI_MYEXnrxnXN3ziwirSQnKQDvprQHsA","_expires_":1516100407,"_path_":"/","_domain_":"kaskus.co.id"}]});

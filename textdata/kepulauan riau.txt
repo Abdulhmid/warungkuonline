@@ -1,0 +1,7 @@
+<option>batam</option>
+
+<option>bintan</option>
+<option>karimun</option>
+<option>lingga</option>
+<option>natuna</option>
+<option>tanjung pinang</option>

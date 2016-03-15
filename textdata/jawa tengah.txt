@@ -1,0 +1,14 @@
+<option>banjarnegara</option>
+
+<option>banyumas</option>
+<option>batang</option>
+<option>blora</option>
+<option>cilacap</option>
+<option>kebumen</option>
+<option>purwokerto</option>
+<option>klaten</option>
+<option>kudus</option>
+<option>magelang</option>
+<option>semarang</option>
+<option>pekalongan</option>
+<option>wonosobo</option>

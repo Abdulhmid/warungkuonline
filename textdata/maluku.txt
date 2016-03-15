@@ -1,0 +1,6 @@
+<option>ambon</option>
+
+<option>buru</option>
+<option>maluku barat</option>
+<option>seram</option>
+<option>tual</option>

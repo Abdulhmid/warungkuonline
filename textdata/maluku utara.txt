@@ -1,0 +1,6 @@
+<option>halmahera</option>
+
+<option>kepulauan sula</option>
+<option>pulau morotai</option>
+<option>ternate</option>
+<option>tidore</option>

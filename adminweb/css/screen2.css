@@ -1,0 +1,12 @@
+body			{
+	background: url('../images/img295-Untitled-1.jpg');
+	text-align: left;
+	margin: 0px;
+	font-family: arial;
+	font-size: 24px;
+	color: #666666;
+}
+
+#logo { background-image:url('../images/logo.png') center bottom no-repeat; background-position:right;}
+.login-header			{ height: 95px; background: url('../images/logo.png') left bottom no-repeat; padding: 0px 15px 0px 15px; }
+#print {background-color:#FFF; padding-bottom:50px; width:750px;}

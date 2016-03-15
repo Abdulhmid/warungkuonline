@@ -1,0 +1,5 @@
+<option>boelamo</option>
+
+<option>bone belango</option>
+<option>gorontalo kota</option>
+<option>gorontalo utara</option>

@@ -1,0 +1,8 @@
+<option>bayuasin</option>
+
+<option>muara</option>
+<option>ogan</option>
+<option>pagar alam</option>
+<option>Palembang</option>
+<option>prabumulih</option>
+<option>lahat</option>

@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+.clear{clear:both;}
+img{border:0;}
+body{font:10pt verdana,geneva,lucida,'lucida grande',arial,helvetica,sans-serif;background:#EAE5CE;}
+a{color:#000000;text-decoration:none;}
+a:hover{color:#ff7200;text-decoration:none;}
+#wrapper{width:80%;margin:auto;background:#ffffff;padding:7px;border:solid 1px #ccc;}
+
+ul{margin-bottom:0;}
+ul li{margin: 0 0 5px -40px;list-style:none}
+
+.siding{margin-bottom:0;}
+.siding li{float:left;list-style:none; margin: 0 0 10px 10px;}
+
+#top{padding:5px 0px;margin:0;}
+#top a{color:#FFFFFF;font-weight:700;}
+#top a:hover{color:#ff7200;font-weight:700;}
+#top_view a{color:#0099cc;font-weight:700;}
+#top_view a:hover{color:#000000;font-weight:700;}
+.top_element{float:left; width:100px;}
+.topright_element{float:right; width:120px; margin:0; padding:0;}
+
+#menu{background:url("http://img.kaskus.co.id/images/bg_header_nav.gif") !important; height:16px;padding:3px 3px 3px 10px;color:#000;}
+#menu a{color:#000;text-decoration:none;}
+#menu a:hover{color:#ffb56c;text-decoration:underline;}
+.menulist{text-align:center;}
+
+.sub{margin: 0 0 5px 0;padding:3px;/*background:url("http://s.kaskus.id/newhomeimages/subfr_fr_header.jpg") repeat-x scroll center top #3A75DC*/}
+.sub_forum{margin: 5px 0 5px 0;padding:3px;border-bottom:1px solid #CCCCCC;}
+.search{text-align:center;}
+
+#submenu{margin: 0 0 5px 0;padding:3px;text-align:center;}
+#submenu a{color:#fff;font-weight:700;}
+/*#submenu a:hover{color:#000000;font-weight:700;}*/
+
+.kaskusad{padding:3px; margin:0 0 5px 0;text-align:center;}
+
+.section{padding:0 0 10px 0;margin:0 0 0 0;}
+#login{background:#ffeeba;padding:10px;}
+#forum{padding:0 0 10px 0;margin:0 0 0 0;}
+#hot_thread{padding:0 0 10px 0;margin:0 0 0 0;}
+.new_thread{padding:0 0 10px 0;margin:0 0 0 0;}
+.new_thread a:hover{color:#FF0000;}
+#jb_thread{padding:0 0 10px 0;margin:0 0 5px 0;background:#e5f9ff;}
+#jb_thread a:hover{color:#0099cc;}
+.header{background:#cccccc;padding:3px;margin: 0;}
+.header1{background:#cccccc;border-bottom:2px solid #ffc200;padding:3px;margin: 0;}
+.header2{background:#cccccc;border-bottom:2px solid #ff0000;padding:3px;margin: 0;}
+.header3{background:#cccccc;border-bottom:2px solid #0099cc;padding:3px;margin: 0;}
+.tracking{background:#eeeeee;padding:3px;}
+.paging{text-align:right;padding:3px;}
+.post{padding:4px;margin:0 0 10px 0;border:1px solid #0B198C;background:#F5F5FF}
+.post a{color:#fff;text-decoration:none;font-weight:bold;}
+.post a:hover{color:#ff7200;text-decoration:none;}
+
+.pagetext{padding:10px 0 10px 0;overflow:hidden;}
+.quote a{color:#22229C !important;text-decoration:underline;}
+.pagetext a{color:#22229C !important;text-decoration:underline !important;}
+.right a{color:#22229C !important;text-decoration:underline !important;}
+
+.poster{margin: 0 0 10px 0;/*background:url("http://s.kaskus.id/newhomeimages/fr_bgjudule.jpg") repeat-x scroll 0 0 #294D8B !important;*/padding:4px; color:#fff; font:10px 
+tahoma,verdana,geneva,lucida,'lucida grande',arial,helvetica,sans-serif;}
+.poster_edit{margin: 10px 0 0 0;padding:3px;}
+.left{float:left;}
+.right{float:right;}
+.reply{padding:3px;margin:0 0 10px 0;}
+.reply a{color:#fff;text-decoration:none;font-weight:bold;}
+.reply a:hover{color:#ff7200;text-decoration:none;}
+.reply .field{width:100%;}
+
+#footer{border-top:2px solid #0099cc;border-bottom:2px solid #ffc200;padding:5px; margin: 10px 0 10px 0;text-align:center;}
+
+.button{color:#FFFFFF;background:#0c6dce;}
+.button2{color:#FFFFFF;background:#ff9933;}
+
+.subs{padding:3px;margin: 0 0 10px 0;}
+.pmlist{border-bottom:1px solid #999999;padding:3px;}
+.pmmsg{float:left;width:80%;}
+.pmtime{float:right;}
+
+.new{color:#FF0000;font-weight:700;}
+
+.btn_link{background:#0569cd; padding:3px 5px 3px 5px;color:#FFF;}
+.btn_link:hover{background:#ff9933;color:#FFF;}

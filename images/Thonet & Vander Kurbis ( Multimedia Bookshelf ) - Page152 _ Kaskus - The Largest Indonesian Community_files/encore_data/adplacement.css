@@ -1,0 +1,85 @@
+@charset "utf-8";
+
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:#fff;
+}
+
+/* CSS Document */
+
+.bannerv{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#666;width:134px;overflow:hidden;background-color:transparent;}
+
+.bannerv a.ka_banner{display:block;background:transparent;text-decoration:none;color:#3b66b5;border-top:1px solid #c0c0c0;margin:15px 0 0 0;padding:15px 0 0 0;font-size:11px;}
+
+.bannerv a:hover.ka_banner{filter:alpha(opacity=80);-moz-opacity: 0.8;opacity: 0.8;}
+
+.bannerv .ka_acc{display:block;margin:0 0 10px 0;}
+
+a.ka_create{display:block;border:0;margin:0 0 5px 0;}
+
+a:hover.ka_create{filter:alpha(opacity=80);-moz-opacity: 0.8;opacity: 0.8;}
+
+a.ka_banner img{border:0;margin:5px 0;}
+
+.ka_title{color:#3b66b5;font-weight:bold;margin-bottom:5px}
+
+.ka_desc{color:#444444;}
+
+.clear{clear:both;}
+
+/* BANNER HORIZONTAL STYLING */
+.bannerhor{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#666;padding:0px;}
+.adh{float:left;width:233px;height:145px;border-left:1px solid #c0c0c0;margin:0;padding:0;}
+.adh a.ka_banner{display:block;text-decoration:none;color:#3b66b5;font-size:11px;}
+.adh .ka_acc{display:block;margin:20px 0 0 0;}
+.adh .ka_acc a{color:#d50e0e;}
+.adh.odd{border:0;padding:0;}
+.adh a{text-decoration:none;color:#3b66b5;font-size:10px;}
+.adh a:hover{text-decoration:none;filter:alpha(opacity=80);-moz-opacity: 0.8;opacity: 0.8;}
+
+/*
+.bannerh{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#666;padding:0px 20px;}
+
+.bannerh a.ka_banner{display:block;text-decoration:none;color:#3b66b5;border-left:1px solid #c0c0c0;margin:0 10px 0 0;padding:0 0 0 
+15px;font-size:10px;float:left;width:220px;height:145px;}
+
+.bannerh a:hover.ka_banner{filter:alpha(opacity=80);-moz-opacity: 0.8;opacity: 0.8;}
+
+.bannerh a.ka_banner.odd{border:0;padding:0;}
+
+.bannerh .ka_acc{display:block;margin:20px 0 0 0;}
+
+.bannerh .ka_acc a{color:#d50e0e;text-decoration:none;}
+
+.bannerh .ka_acc a:hover{text-decoration:underline;}
+*/
+/*MOVIE BANNER*/
+.bannerv_fmovie{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#fff;width:134px;overflow:hidden}
+
+.bannerv_fmovie a.ka_banner{display:block;background:#444444;text-decoration:none;color:#FFF;border-top:1px solid #c0c0c0;margin:15px 0 0 0;padding:15px 0 0 0;font-size:11px;}
+
+.bannerv_fmovie .ka_title{color:#6fbcff;font-weight:bold;}
+
+.bannerv_fmovie .ka_desc{color:#FFF;}
+
+/*F=19 BANNER*/
+.bannerv_fcomp{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#fff;width:134px;overflow:hidden}
+
+.bannerv_fcomp a.ka_banner{display:block;text-decoration:none;color:#FFF;border-top:1px solid #c0c0c0;margin:15px 0 0 0;padding:15px 0 0 0;font-size:11px;}
+
+.bannerv_fcomp .ka_title{color:#6fbcff;font-weight:bold;}
+
+.bannerv_fcomp .ka_desc{color:#FFF;}
+
+/*F=19 BANNER*/
+.bannerv_transparent{font-family:Arial, Helvetica, sans-serif;font-size:11px;color:#fff;width:134px;overflow:hidden}
+
+.bannerv_transparent a.ka_banner{display:block;text-decoration:none;color:#FFF;border-top:1px solid #c0c0c0;margin:15px 0 0 0;padding:15px 0 0 0;font-size:11px;}
+
+.bannerv_transparent .ka_title{color:#3b66b;font-weight:bold;}
+
+.bannerv_transparent .ka_desc{color:#444;}

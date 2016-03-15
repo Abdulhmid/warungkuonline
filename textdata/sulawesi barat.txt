@@ -1,0 +1,6 @@
+<option>majene</option>
+
+<option>mamasa</option>
+<option>mamuju</option>
+<option>mamuju utara</option>
+<option>Polewali</option>

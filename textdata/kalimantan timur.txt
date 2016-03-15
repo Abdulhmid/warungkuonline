@@ -1,0 +1,8 @@
+<option>balikpapan</option>
+
+<option>berau</option>
+<option>kutai kartanegar</option>
+<option>paser</option>
+<option>Penajem paser utara</option>
+<option>samarinda</option>
+<option>bontang</option>

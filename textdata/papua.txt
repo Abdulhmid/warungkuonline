@@ -1,0 +1,8 @@
+<option>asmat</option>
+
+<option>jayapura</option>
+<option>mambero</option>
+<option>nabire</option>
+<option>Puncak</option>
+<option>sarmi</option>
+<option>tolikara</option>

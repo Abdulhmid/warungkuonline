@@ -1,0 +1,6 @@
+<option>Jakarta Barat</option>
+<option>Jakarta Timur</option>
+
+<option>Jakarta Selatan</option>
+<option>Jakarta Utara</option>
+<option>Kepulauan Seribu</option>

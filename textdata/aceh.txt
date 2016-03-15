@@ -1,0 +1,19 @@
+<option>Aceh Barat</option>
+
+<option>Aceh Besar</option>
+<option>Aceh jaya</option>
+<option>Aceh Selatan</option>
+<option>Aceh Singkil</option>
+<option>Aceh Tamiang</option>
+<option>Aceh Tengah</option>
+<option>Aceh Tenggara/option>
+<option>Aceh Timur</option>
+<option>Aceh Utara</option>
+<option>Banda Aceh Kota</option>
+<option>Bener Meriah</option>
+<option>Bireun</option>
+<option>Gayo Lues</option>
+<option>Langsa Kota</option>
+<option>Lhoukseumawe</option>
+<option>Nagan Raya</option>
+<option>Pidi Jaya</option>

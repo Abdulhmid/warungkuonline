@@ -1,0 +1,12 @@
+<option>bangkalan</option>
+
+<option>banyuwangi</option>
+<option>blitar</option>
+<option>bondowoso</option>
+<option>madiun</option>
+<option>Kediri</option>
+<option>malang</option>
+<option>surabaya</option>
+<option>ngawi</option>
+<option>pacitan</option>
+<option>pasuruan</option>

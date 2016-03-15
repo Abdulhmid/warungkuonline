@@ -1,0 +1,8 @@
+<option>agam</option>
+
+<option>Kepulauan mentawai</option>
+<option>Pariaman</option>
+<option>solok</option>
+<option>Payakambuh</option>
+<option>sijunjung</option>
+<option>pasaman</option>

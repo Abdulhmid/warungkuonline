@@ -1,0 +1,8 @@
+<option>bitung</option>
+
+<option>bolaang</option>
+<option>kepulauan siau</option>
+<option>manado</option>
+<option>minahasa</option>
+<option>tomohon</option>
+<option>kepulauan sangihe</option>

@@ -1,0 +1,8 @@
+<option>banggai</option>
+
+<option>buol</option>
+<option>donggala</option>
+<option>tojo</option>
+<option>toli-toli</option>
+<option>sigi</option>
+<option>poso</option>

@@ -1,0 +1,8 @@
+<option>bau-bau</option>
+
+<option>bombana</option>
+<option>kendari</option>
+<option>kolaka</option>
+<option>konawe</option>
+<option>muna</option>
+<option>wakatobi</option>
